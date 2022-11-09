@@ -8,4 +8,4 @@ For my programming projects, I usually only upload to Github once I make signifi
 
 💬 Ask me about cloud.
 
-⚡ Fun fact: My first line of code was not "Hello World!"
+⚡ Fun fact: My first line of code was not "Hello World!" it is "See you in the Cloud"
