@@ -13,3 +13,4 @@ For my programming projects, I usually only upload to Github once I make signifi
 
 [![@duttanurag's Holopin board](https://holopin.me/duttanurag)](https://holopin.io/@duttanurag)
 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anurag-compile&show_icons=true&locale=en" alt="anurag-compile" />
