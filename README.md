@@ -20,10 +20,10 @@ For my programming projects, I usually only upload to Github once I make signifi
   MCA'24@VIT | DevOps 🐳☸ 
 </h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag-compile&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-compile" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anurag-compile&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-compile" /> </p>
 
 <a align= "center" href="https://github.com/anurag-compile">
-<p>  
+<p align="center">  
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag-compile&theme=dracula&hide_border=true">
   
  </a>
