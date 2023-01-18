@@ -24,8 +24,15 @@ For my programming projects, I usually only upload to Github once I make signifi
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anurag-compile&label=Profile%20views&color=0e75b6&style=flat" alt="anurag-compile" /> </p>
 
-<a align= "center" href="https://github.com/anurag-compile">
+
 <p align="center">  
+<a align= "center" href="https://github.com/anurag-compile">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag-compile&theme=dracula&hide_border=true">
 </a>
 </p>
+<p align="center">
+<a align= "center" href="https://github.com/anurag-compile">
+<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=anurag-compile&count_private=true&show_icons=true&theme=dracula&hide_border=true" />
+</a>
+</p>
+
