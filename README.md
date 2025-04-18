@@ -1,8 +1,7 @@
 ### Hi 👋, I'm Anurag Dutt
 
-Cloud Engineer | Azure & OCI Certified | Atos
+Cloud Engineer | Azure & OCI Certified
 
-MCA'24 @ VIT | DevOps 🐳☸️
 
 Hi! I'm a cloud enthusiast with hands-on experience across Azure, AWS, and GCP.
 
